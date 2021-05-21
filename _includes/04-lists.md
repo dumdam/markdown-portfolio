@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- sherlock
+- movies
+- some
+
+* ab
+* bc
+
+1. hello
+2. bro
